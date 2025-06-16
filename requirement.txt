@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-core
+langchain_community
+python-dotenv
+langchain_huggingface
+faiss-cpu
+langgraph
+grandalf
+tiktoken
+langchainhub
+chromadb
+langgraph
+langgraph-checkpoint-sqlite
+langchain-chroma
