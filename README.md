@@ -93,37 +93,30 @@ pip install -r requirements.txt
 
 ## 📝 Blog Series – Advanced RAG Techniques
 
-Dive deeper with this series of blogs exploring the theory and code behind each advanced technique:
+Read the full blog series explaining the ideas behind each RAG enhancement in detail:
 
-### 📦 Indexing
+### 🔄 Query Translation
+- **Advanced Query Translation Techniques in RAG Systems**  
+  [🔗 Read here](https://medium.com/@gauravbansalutd/advanced-query-translation-techniques-in-retrieval-augmented-generation-rag-systems-0fad5ad6f500)
 
-- **Part 1: Splitting Strategy**  
-  [🔗 Read on Medium](https://medium.com/@roberto.g.infante/advanced-rag-techniques-with-langchain-f9c82290b0d1)
+### 🚦 Routing
+- **Elevating LLM Interactions with Intelligent Routing**  
+  [🔗 Read here](https://medium.com/@gauravbansalutd/advanced-rag-techniques-elevating-llm-interactions-with-intelligent-routing-d8c2f55a017b)
 
-- **Part 2: Embedding Strategy**  
-  [🔗 Read on Medium](https://medium.com/@roberto.g.infante/advanced-rag-techniques-with-langchain-part-2-6dbcdb5fbe59)
+### 🧠 Query Construction
+- **Tailoring Queries for Different Data Sources**  
+  [🔗 Read here](https://medium.com/@gauravbansalutd/query-construction-in-rag-systems-tailoring-queries-for-different-data-sources-b736f18e6f52)
 
-### ❓ Question Transformation
+### 🗃️ Indexing
+- **Part I: Beyond Basic Chunking**  
+  [🔗 Read here](https://medium.com/@gauravbansalutd/advanced-indexing-techniques-in-rag-systems-beyond-basic-chunking-ea6a84e4627c)
 
-- **Part 3: Rewrite-Retrieve-Read**  
-  [🔗 Read on Medium](https://medium.com/@roberto.g.infante/advanced-rag-techniques-with-langchain-7d71d25323c5)
+- **Part II: Advanced Embedding Strategies**  
+  [🔗 Read here](https://medium.com/@gauravbansalutd/advanced-indexing-techniques-in-rag-systems-beyond-basic-chunking-part-ii-0d5e190c7a57)
 
-- **Part 4: Generating Multiple Queries**  
-  [🔗 Read on Medium](https://medium.com/@roberto.g.infante/advanced-rag-techniques-with-langchain-part-4-d433c103d7ef)
-
-- **Part 5: Step-Back Questioning**  
-  [🔗 Read on Medium](https://medium.com/@roberto.g.infante/advanced-rag-techniques-with-langchain-part-5-d362271189e8)
-
-- **Part 6: Hypothetical Document Embeddings (HyDE)**  
-  [🔗 Read on Medium](https://medium.com/@roberto.g.infante/advanced-rag-techniques-with-langchain-part-6-d572a859a83f)
-
-### 🧠 Self-Querying and SQL
-
-- **Part 7: Metadata Query Enrichment**  
-  [🔗 Read on Medium](https://medium.com/@roberto.g.infante/advanced-rag-techniques-with-langchain-part-7-843ecd3199f0)
-
-- **Part 8: Text-to-SQL (Natural Language to Structured Queries)**  
-  [🔗 Read on Medium](https://medium.com/@roberto.g.infante/advanced-rag-techniques-with-langchain-part-8-5c0832da2329)
+### 📡 Retrieval
+- **CRAG, Re-ranking, and Active Retrieval**  
+  [🔗 Read here](https://medium.com/@gauravbansalutd/advanced-retrieval-techniques-in-rag-systems-crag-re-ranking-and-active-retrieval-a4796a7a5f4f)
 
 ---
 
